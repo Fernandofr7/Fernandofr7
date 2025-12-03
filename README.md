@@ -75,6 +75,8 @@ Aplicación móvil para gestión de productos, ventas y catálogos. Desarrollo c
 <br>
 
 **Tecnologías:** Android Studio, Java, SQLite  
+<br>
+[🔗 Ver en GitHub](https://github.com/Fernandofr7/PlataformaComercial)
 
 </td>
 
@@ -87,7 +89,8 @@ Plataforma web que permite enviar mensajes, imágenes y documentos con una inter
 <br>
 
 **Tecnologías:** HTML, CSS, JS, PHP, MySQL  
-
+<br>
+[🔗 Ver en GitHub](https://github.com/Fernandofr7/SistemaMensajeria)
 </td>
 </tr>
 
@@ -101,6 +104,8 @@ Aplicación empresarial para ventas, inventario y reportes automáticos.
 <br>
 
 **Tecnologías:** Java, Swing, MySQL  
+<br>
+[🔗 Ver en GitHub](https://github.com/Fernandofr7/Gestion-de-Ventas)
 
 </td>
 
@@ -113,6 +118,8 @@ Sistema para manejo de pacientes, personal y procesos hospitalarios.
 <br>
 
 **Tecnologías:** Java, MySQL  
+<br>
+[🔗 Ver en GitHub](https://github.com/MarlonCopara4120/ProyectoSistemaGestionHospital)
 
 </td>
 </tr>
@@ -127,6 +134,8 @@ Plataforma web para administración de alquileres, usuarios y reservas.
 <br>
 
 **Tecnologías:** PHP, JS, HTML/CSS, MySQL  
+<br>
+[🔗 Ver en GitHub](https://github.com/Dalembert21/app-Alquiler-Autos)
 
 </td>
 </tr>
@@ -159,16 +168,6 @@ Esta experiencia fortaleció mis habilidades técnicas, mi capacidad de trabajo 
 - Data Science Essentials with Python – **Nov 2025**  
 
 ---
-
-# 📊 GitHub Stats 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Fernandofr7&theme=tokyonight" />
-</p>
-
-
----
-
 
 # 📞 Contacto
 
